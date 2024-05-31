@@ -1,4 +1,8 @@
 ## create data and lert message
+
+#### 关联文件
+lwc:contactCreator
+
 --         <lightning-record-form
             object-api-name={objectApiName}
             fields={fields}

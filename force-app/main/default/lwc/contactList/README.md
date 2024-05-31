@@ -1,5 +1,10 @@
 # README
 
+#### 关联文件
+lwc:contactList
+apex:ContactController
+opensource:ldsUtils
+
 ## 一句话概括
 
 这两段代码通过使用 Apex 来抛出处理错误的模拟，以及使用 Lightning Web Components (LWC) 来创建联系人记录并在成功时显示通知，实现了 Salesforce 平台上的前端和后端交互功能。

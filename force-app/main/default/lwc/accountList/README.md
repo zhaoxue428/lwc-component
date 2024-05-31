@@ -1,5 +1,9 @@
 ### 账户管理 LWC 说明文档
 
+#### 关联文件
+lwc:accountList
+apex:AccountController
+
 **概述**：此组件集提供了使用 Apex 和 Lightning Web Components (LWC) 从 Salesforce 获取并显示账户列表的功能。（两个功能）
 
 #### Apex 控制器：`AccountController`
